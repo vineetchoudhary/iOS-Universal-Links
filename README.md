@@ -115,3 +115,7 @@ For example, in the sample app:
 ### DONE
 
 ![](/screen.gif)
+
+### References 
+https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html
+http://www.sitepoint.com/ios-universal-links-for-a-seamless-app-user-experience/
