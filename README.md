@@ -111,3 +111,7 @@ For example, in the sample app:
         }
         return YES;
     }  
+    
+### DONE
+
+![](/screen.gif)
