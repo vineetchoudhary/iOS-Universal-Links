@@ -114,4 +114,4 @@ For example, in the sample app:
     
 ### DONE
 
-![](/screen.gif)
+![](/screen.gif =500x)
