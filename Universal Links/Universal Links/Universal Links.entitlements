@@ -5,6 +5,7 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:vineetchoudhary.github.io</string>
+		<string>applinks:www.vineetchoudhary.github.io</string>
 	</array>
 </dict>
 </plist>
