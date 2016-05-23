@@ -118,4 +118,4 @@ For example, in the sample app:
 
 ### References 
 https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html
-http://www.sitepoint.com/ios-universal-links-for-a-seamless-app-user-experience/
+http://www.developerinsider.in/enable-universal-links-in-ios-app-and-setup-server-for-it/
