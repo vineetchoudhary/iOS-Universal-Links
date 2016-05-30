@@ -1,3 +1,3 @@
 language: objective-c
-xcode_project: "Universal Links/Universal Links.xcodeproj" # path to your xcodeproj folder
+xcode_project: Universal Links/Universal Links.xcodeproj # path to your xcodeproj folder
 osx_image: xcode7.3
